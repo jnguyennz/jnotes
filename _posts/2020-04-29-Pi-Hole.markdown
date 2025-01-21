@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pi-hole"
+date:   2020-04-29
+categories: Pi-hole
+---
+Pi-Hole ads block is a great open source system. I used it in my home and it can block ads for my TV so well.
+
+I just run it on my laptop's virtual machine and it run so well to block ads for my home network.
+
+![Pi-Hole Dashboard](/assets/pi-hole.png)
+
+You can try it.
