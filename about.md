@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-# The masters failed more times than the beginners ever tried
+# Favorites quote
+## The masters failed more times than the beginners ever tried
 
 # References:
 
