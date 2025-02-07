@@ -1,4 +1,4 @@
-Week 2: define the scope of works
+# Week 2: define the scope of works
 
 - Ethical Hacking and Penetration Testing
 - The Current Threat Landscape
