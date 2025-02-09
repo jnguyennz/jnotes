@@ -12,6 +12,8 @@ Study material used:
 
 - TryHackMe Passive and Active reconnaissance rooms
 
+- study more on reading/writing snippets of scripts and code samples
+
 ## Questions
 
 How to delete uploaded book in Google PlayBook? 
