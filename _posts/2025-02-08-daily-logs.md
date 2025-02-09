@@ -1,5 +1,17 @@
 # “The master has failed more times than the beginner has even tried.”
 
+## Pentest+
+
+Study material used:
+
+- Sybex Study Guide PT0-002
+
+- Jason Dion video course and practice tests
+
+- TryHackMe Nmap room
+
+- TryHackMe Passive and Active reconnaissance rooms
+
 ## Questions
 
 How to delete uploaded book in Google PlayBook? 
