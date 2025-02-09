@@ -34,3 +34,11 @@
 🌺 1) Limited online information: I think some targets have limited online footprint, make it challenge to gather information. So, we need to find more sources to collect information.
 
 🌺 2) False or misleading information: I think there is a lot of wrong information online, we need to double check the information we gather from online sources.
+
+---
+## Passive reconnaissance:
+
+- https://osintframework.com/
+
+- TheHarvester
+
