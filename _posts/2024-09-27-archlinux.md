@@ -10,9 +10,12 @@ categories: arch_linux
 **Run archinstall**
 **After install completed, reboot and install the following**
 
+---
 ```Run: sudo dnf update```
 
+---
 **Install broadcom wifi for Manjaro linux **
+
 ```sudo pacman -S broadcom-wl-dkms```
 
 <ol>
