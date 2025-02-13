@@ -18,6 +18,8 @@ categories: arch_linux
 
 ```sudo pacman -S broadcom-wl-dkms```
 
+---
+
 <ol>
 <li>Localsend</li>
 <li>ibus-unikey</li>
