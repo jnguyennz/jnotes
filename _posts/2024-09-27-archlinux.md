@@ -12,6 +12,9 @@ categories: arch_linux
 
 ```Run: sudo dnf update```
 
+**Install broadcom wifi for Manjaro linux **
+```sudo pacman -S broadcom-wl-dkms```
+
 <ol>
 <li>Localsend</li>
 <li>ibus-unikey</li>
@@ -25,7 +28,6 @@ categories: arch_linux
 ```sudo pacman -S adobe-source-han-sans-otc-fonts```
 <li>Anki</li>
 </ol>
-
 
 ---
 **Install Bluetooth for ArchLinux**
