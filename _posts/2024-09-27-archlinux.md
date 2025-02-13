@@ -16,7 +16,9 @@ categories: arch_linux
 ---
 ### Install broadcom wifi for Manjaro linux
 
-```sudo pacman -S broadcom-wl-dkms```
+```sudo pacman -S broadcom-wl-dkms
+    or sudo pacman -S broadcom-wl
+```
 
 ---
 
