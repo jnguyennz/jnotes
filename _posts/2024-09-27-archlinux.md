@@ -14,7 +14,7 @@ categories: arch_linux
 ```Run: sudo dnf update```
 
 ---
-**Install broadcom wifi for Manjaro linux **
+### Install broadcom wifi for Manjaro linux
 
 ```sudo pacman -S broadcom-wl-dkms```
 
