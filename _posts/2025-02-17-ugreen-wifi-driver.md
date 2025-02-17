@@ -13,6 +13,7 @@ sudo apt update sudo apt install -y sudo unzip build-essential linux-headers-$(u
 
 Step 1 - Download the Driver
 Visit the official download page: [UGREEN AX900 WiFi Driver](https://www.lulian.cn/download/135.html)
+or URL: https://www.lulian.cn/download/135.html
 
 Step 2 - Unpack and patch the Driver
 The current V1.2 Version of the CM762-35264 driver contains a bug for kernels > 6.3.0.
