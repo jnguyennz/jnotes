@@ -22,9 +22,9 @@
 
 ## Count the number of lines that Tuscan appears on.
 
-```grep Tuscan tuscanmilk.txt | wc -l
+```grep Tuscan tuscanmilk.txt | wc -l ```
 
-OR grep -c Tuscan tuscanmilk.txt```
+OR ```grep -c Tuscan tuscanmilk.txt```
 
 ## Count the number of words in the lines that the appears on.
 
