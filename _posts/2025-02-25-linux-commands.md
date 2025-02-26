@@ -30,6 +30,28 @@ OR grep -c Tuscan tuscanmilk.txt
 
 grep the tuscanmilk.txt | wc -w
 
+## Display lines that end with a period
+
+grep '\.$' tuscanmilk.txt
+
+## Display line that contain floor or door
+egrep 'floor|door' tuscanmilk.txt
+
+## Display lines that contain who or what or how
+egrep 'who|what\how' tuscanmilk.txt
+
+## Display lines that contain a string that starts with s, end with e and has three characters between
+
+egrep 's...e' tuscanmilk.txt
+
+## Same as the previous but display only the strings that match the pattern, not the line.
+
+egrep -o 's...e' tuscanmilk.txt
+
+## Same as previous but sort them into alphabet order
+
+egrep -o 's...e' tuscanmilk.txt | sort
+
 ## Display lines that end with ore
 
 grep ore$ tuscanmilk.txt
