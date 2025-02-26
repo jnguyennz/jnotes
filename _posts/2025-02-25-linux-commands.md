@@ -56,4 +56,16 @@ OR ```grep -c Tuscan tuscanmilk.txt```
 
 ```grep ore$ tuscanmilk.txt```
 
-## 
+# File name auth.log
+
+- How many lines are in the file?
+```wc -l auth.log```
+
+- Which three day are represented in the file?
+
+``` egrep -o '^..........' auth.log | uniq
+
+- How many entries are there for each day in the file?
+``` egrep -o '^..........' auth.log | uniq -c
+ 
+
