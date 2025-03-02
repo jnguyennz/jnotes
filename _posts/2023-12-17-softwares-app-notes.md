@@ -3,7 +3,21 @@ layout: post
 title:  "Softwares apps notes"
 categories: softwares apps notes
 ---
-The list of softwares I use <br>
+# Software for linux mint
+
+Live caption on linux 
+```https://flathub.org/apps/net.sapples.LiveCaptions```
+
+cherrytree
+```sudo apt install cherrytree```
+
+Virtualbox
+```sudo apt install virtualbox```
+
+run the virtualbox to check the version, then, download virtualbox extension pack from the virtualbox website.
+
+Java jdk
+```sudo apt install default-jdk```
 
 # Software for mac
 
