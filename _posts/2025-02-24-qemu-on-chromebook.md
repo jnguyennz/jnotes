@@ -1,11 +1,6 @@
-Recently I changed to use to chromebook daily, because macbook is too expensive for me to afford it.
-I don't have job now.
+Recently I changed to use to chromebook daily now and enjoy using a different operating system so far.
 
-As I am learning, I use chromebook.
-
-I found that jgrasp String.format on linux on chromebook has different format comparing the String.format on windows.
-
-I need to create the virtual machine to test it. Since I only have chromebook, so I need to install virtual machine on chromebook
+Here are my experience to use qemu on chromebook linux.
 
 Step 1: Install the virtual qemu software
 
