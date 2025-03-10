@@ -3,9 +3,14 @@ layout: post
 title: Bookmarks
 Catgegoy: Bookmarks
 ---
+
+# Hacking information
+
+```https://github.com/tanc7/hacking-books/blob/master/metasploit_apenetrationtestersguide.pdf```
+
 # Sierra college discord groups
 
-https://discord.com/channels/882703731341295668/882703731920076800
+```https://discord.com/channels/882703731341295668/882703731920076800```
 
 # Best 10 places for learning:
 
