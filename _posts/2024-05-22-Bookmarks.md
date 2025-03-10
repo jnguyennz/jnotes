@@ -8,7 +8,7 @@ Catgegoy: Bookmarks
 
 ```https://github.com/tanc7/hacking-books/blob/master/metasploit_apenetrationtestersguide.pdf```
 
-# Sierra college discord groups
+# college discord groups
 
 ```https://discord.com/channels/882703731341295668/882703731920076800```
 
