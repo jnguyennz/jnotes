@@ -3,8 +3,11 @@ layout: post
 title: Bookmarks
 Catgegoy: Bookmarks
 ---
-# Best 10 places for learning:
+# Sierra college discord groups
 
+https://discord.com/channels/882703731341295668/882703731920076800
+
+# Best 10 places for learning:
 
 * tryhackme
 
