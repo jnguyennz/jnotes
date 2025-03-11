@@ -9,3 +9,8 @@ Solution:
 add the following line to /etc/pam.d/su and /etc/pam.d/sudo:
 
 ```session optional pam_xauth.so```
+
+Then run this command to check if it still have error
+
+``` sudo xhost ```
+or ```xhost```
