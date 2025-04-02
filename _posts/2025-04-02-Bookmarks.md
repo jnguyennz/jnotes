@@ -3,6 +3,26 @@ layout: post
 title: Bookmarks
 Catgegoy: Bookmarks
 ---
+# Security information urls
+
+## Exploit Databases
+```
+https://www.exploit-db.com/
+
+https://www.rapid7.com/db/
+
+https://nvd.nist.gov/
+
+https://vuldb.com/
+
+https://www.zerodayinitiative.com/
+
+https://www.cvedetails.com/
+
+https://attack.mitre.org/
+
+https://www.openbugbounty.org/
+```
 
 # Hacking information
 
