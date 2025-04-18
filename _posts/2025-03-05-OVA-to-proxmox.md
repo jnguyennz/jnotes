@@ -23,3 +23,12 @@ root@pve:~/ova_import# wget -O tracelabsOSINT.ova https://github.com/tracelabs/t
 root@pve:~/ova_import# tar xvf tracelabsOSINT.ova
 root@pve:~/ova_import# qm importovf 200 ./tl-osint-2023.03-virtualbox-amd64.ovf local-lvm --format qcow2
 ```
+
+Notes:
+```
+Command
+
+tar -xvf OWASP_Broken_Web_Apps_VM_1.2.ova
+
+qm importovf 111 OWASP_Broken_Web_Apps_VM_1.2.ovf data --format raw
+```
