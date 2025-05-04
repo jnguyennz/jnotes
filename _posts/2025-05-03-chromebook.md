@@ -1,0 +1,11 @@
+# Chromebook linux installation.
+- Asus CX1500cka
+- Remove the battery cable from battery and from the motherboard.
+- Enable the developer mode
+- After the chromebook reboot, connect it to wifi, Enable debug and set root password.
+- click Ctrl + Atl + F2 (F2 is the refresh button)
+- Download Run the script from mrchrometech.box/firmware-util.sh
+- Install num 1 (the firmware to run new Bios
+- Boot from new bios and press ESC to select to boot from your linux USB
+- Now you can install linux on chrome
+- Note >>>>>>>>>>>>. Sound is not working via the speaker, but you can use sound from BT speakers or earbuds.
