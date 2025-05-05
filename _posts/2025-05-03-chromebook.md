@@ -1,5 +1,5 @@
 # Chromebook linux installation.
-- Asus CX1500cka
+- Laptop model: Asus CX1500cka
 - Remove the battery cable from battery and from the motherboard.
 - Enable the developer mode
 - After the chromebook reboot, connect it to wifi, Enable debug and set root password.
