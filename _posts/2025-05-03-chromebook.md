@@ -9,3 +9,5 @@
 - Boot from new bios and press ESC to select to boot from your linux USB
 - Now you can install linux on chrome
 - Note >>>>>>>>>>>>. Sound is not working via the speaker, but you can use sound from BT speakers or earbuds.
+     - when you plug in the headphone in headphone jack, the sound will play from your speaker. Cool?
+     - I could not find the drive for the sound yet.
