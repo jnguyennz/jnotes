@@ -52,3 +52,12 @@ Value: Primitives create copies on assignment (int x = y;)
 Reference: Array assignments share data (int[] arr2 = arr1;).
 Changes via one reference affect all.
 ```
+
+## More on Array
+
+Array Simulation
+https://youtu.be/g2CXRFz_uO8
+
+Array Traversal Algorithm
+https://www.youtube.com/watch?v=rOshS_fxgKc
+
