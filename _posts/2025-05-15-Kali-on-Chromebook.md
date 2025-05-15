@@ -29,7 +29,7 @@ vagrant init kalilinux/rolling --box-version 2025.1.0
 vagrant up
 
 # SSH to the vm
-vagrant ssh kali
+vagrant ssh
 
 # Reference:
 https://portal.cloud.hashicorp.com/vagrant/discover/kalilinux/rolling
