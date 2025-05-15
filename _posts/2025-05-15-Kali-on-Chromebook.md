@@ -34,5 +34,6 @@ vagrant ssh kali
 # Reference:
 https://portal.cloud.hashicorp.com/vagrant/discover/kalilinux/rolling
 https://support.google.com/chromebook/thread/222567243/can-i-install-kali-on-chromebook-background-i-am-learning-ceh-and-kali-has-the-tools?hl=en
+https://askubuntu.com/questions/1089753/e-package-libvirt-bin-has-no-installation-candidate
 
 ```
