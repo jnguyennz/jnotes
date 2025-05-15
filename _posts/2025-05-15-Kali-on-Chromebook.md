@@ -37,3 +37,24 @@ https://support.google.com/chromebook/thread/222567243/can-i-install-kali-on-chr
 https://askubuntu.com/questions/1089753/e-package-libvirt-bin-has-no-installation-candidate
 
 ```
+
+if have following error
+```
+The box failed to unpackage properly. Please verify that the box
+file you're trying to add is not corrupted and that enough disk space
+is available and then try again.
+The output from attempting to unpackage (if any):
+
+x Vagrantfile
+x box_0.img: Write failed: No space left on device
+x metadata.json
+bsdtar: Error exit delayed from previous errors.
+
+```
+Then try to do the following
+
+```
+Download manually from here https://portal.cloud.hashicorp.com/vagrant/discover/kalilinux/rolling
+Run vagrant box add --name ubuntu/bionic64 /path/to/bionic-server-cloudimg-amd64-vagrant.box
+Try vagrant up again
+```
